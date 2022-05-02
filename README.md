@@ -11,5 +11,3 @@ Back ⋙ PostgreSQL, Sequelize, Express, Node.js.
 Front ⋙ React, Redux, SASS.
 
 
-
-### Advanced Configuration
